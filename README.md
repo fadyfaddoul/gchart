@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+YOLOv8 INT8 TFLite Inference Example (#7317)

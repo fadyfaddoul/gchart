@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add TF SavedModel Docs Integrations Page (#9162)
